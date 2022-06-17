@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Pichau\Documents\exerc\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3135037751.index
+4202998745.index
+319250399.index
+2437736434.index
+3761990029.index
+3199926850.index
+3484013622.index
